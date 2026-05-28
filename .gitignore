@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.bak
+.claude/
+code/netease_comments_*.csv
+data/netease_comments_*.csv
+code/comments_cleaned.csv
+code/comments_tokenized.csv
+code/comments_analyzed.csv

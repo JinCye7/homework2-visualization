@@ -1,0 +1,1326 @@
+{
+  "emotion_categories": [
+    {
+      "category": "希望与祝福",
+      "count": 13584
+    },
+    {
+      "category": "思念与遗憾",
+      "count": 13558
+    },
+    {
+      "category": "爱情与承诺",
+      "count": 13398
+    },
+    {
+      "category": "孤独与自语",
+      "count": 4883
+    },
+    {
+      "category": "眼泪与感动",
+      "count": 3182
+    },
+    {
+      "category": "青春与时光",
+      "count": 2573
+    }
+  ],
+  "geo_distribution": [
+    {
+      "name": "广东",
+      "value": 11910
+    },
+    {
+      "name": "浙江",
+      "value": 5733
+    },
+    {
+      "name": "河南",
+      "value": 5607
+    },
+    {
+      "name": "北京",
+      "value": 4042
+    },
+    {
+      "name": "山东",
+      "value": 3887
+    },
+    {
+      "name": "河北",
+      "value": 3404
+    },
+    {
+      "name": "江苏",
+      "value": 3400
+    },
+    {
+      "name": "湖南",
+      "value": 3310
+    },
+    {
+      "name": "广西",
+      "value": 3288
+    },
+    {
+      "name": "四川",
+      "value": 3156
+    },
+    {
+      "name": "安徽",
+      "value": 2872
+    },
+    {
+      "name": "江西",
+      "value": 2851
+    },
+    {
+      "name": "福建",
+      "value": 2516
+    },
+    {
+      "name": "湖北",
+      "value": 2038
+    },
+    {
+      "name": "陕西",
+      "value": 2016
+    },
+    {
+      "name": "贵州",
+      "value": 1882
+    },
+    {
+      "name": "云南",
+      "value": 1658
+    },
+    {
+      "name": "重庆",
+      "value": 1614
+    },
+    {
+      "name": "辽宁",
+      "value": 1175
+    },
+    {
+      "name": "山西",
+      "value": 1127
+    },
+    {
+      "name": "上海",
+      "value": 1100
+    },
+    {
+      "name": "新疆",
+      "value": 998
+    },
+    {
+      "name": "黑龙江",
+      "value": 825
+    },
+    {
+      "name": "吉林",
+      "value": 673
+    },
+    {
+      "name": "甘肃",
+      "value": 673
+    }
+  ],
+  "hourly_pattern": [
+    {
+      "hour": 0,
+      "count": 1583
+    },
+    {
+      "hour": 1,
+      "count": 2168
+    },
+    {
+      "hour": 2,
+      "count": 2657
+    },
+    {
+      "hour": 3,
+      "count": 3288
+    },
+    {
+      "hour": 4,
+      "count": 3969
+    },
+    {
+      "hour": 5,
+      "count": 4174
+    },
+    {
+      "hour": 6,
+      "count": 4094
+    },
+    {
+      "hour": 7,
+      "count": 3988
+    },
+    {
+      "hour": 8,
+      "count": 4052
+    },
+    {
+      "hour": 9,
+      "count": 3994
+    },
+    {
+      "hour": 10,
+      "count": 4091
+    },
+    {
+      "hour": 11,
+      "count": 4526
+    },
+    {
+      "hour": 12,
+      "count": 4927
+    },
+    {
+      "hour": 13,
+      "count": 5186
+    },
+    {
+      "hour": 14,
+      "count": 5112
+    },
+    {
+      "hour": 15,
+      "count": 4737
+    },
+    {
+      "hour": 16,
+      "count": 3655
+    },
+    {
+      "hour": 17,
+      "count": 2565
+    },
+    {
+      "hour": 18,
+      "count": 1719
+    },
+    {
+      "hour": 19,
+      "count": 1101
+    },
+    {
+      "hour": 20,
+      "count": 659
+    },
+    {
+      "hour": 21,
+      "count": 458
+    },
+    {
+      "hour": 22,
+      "count": 616
+    },
+    {
+      "hour": 23,
+      "count": 1065
+    }
+  ],
+  "night_owl_ratio": 31.7,
+  "length_segments": [
+    {
+      "segment": "短评 (≤10字)",
+      "count": 18245,
+      "avg_sentiment": 0.606,
+      "avg_likes": 6.7
+    },
+    {
+      "segment": "简评 (11-20字)",
+      "count": 31021,
+      "avg_sentiment": 0.62,
+      "avg_likes": 9.1
+    },
+    {
+      "segment": "中评 (21-40字)",
+      "count": 11469,
+      "avg_sentiment": 0.64,
+      "avg_likes": 6.4
+    },
+    {
+      "segment": "长评 (41-80字)",
+      "count": 4029,
+      "avg_sentiment": 0.683,
+      "avg_likes": 14.7
+    },
+    {
+      "segment": "超长评 (>80字)",
+      "count": 9619,
+      "avg_sentiment": 0.706,
+      "avg_likes": 3.1
+    }
+  ],
+  "monthly_engagement": [
+    {
+      "year_month": "2021-11",
+      "comment_count": 2,
+      "avg_sentiment": 0.71,
+      "avg_likes": 56028.0,
+      "total_likes": 112056,
+      "max_likes": 64987
+    },
+    {
+      "year_month": "2022-08",
+      "comment_count": 1,
+      "avg_sentiment": 0.973,
+      "avg_likes": 40445.0,
+      "total_likes": 40445,
+      "max_likes": 40445
+    },
+    {
+      "year_month": "2022-12",
+      "comment_count": 1,
+      "avg_sentiment": 0.435,
+      "avg_likes": 30912.0,
+      "total_likes": 30912,
+      "max_likes": 30912
+    },
+    {
+      "year_month": "2023-03",
+      "comment_count": 1,
+      "avg_sentiment": 0.528,
+      "avg_likes": 26080.0,
+      "total_likes": 26080,
+      "max_likes": 26080
+    },
+    {
+      "year_month": "2023-06",
+      "comment_count": 1,
+      "avg_sentiment": 0.972,
+      "avg_likes": 24869.0,
+      "total_likes": 24869,
+      "max_likes": 24869
+    },
+    {
+      "year_month": "2023-07",
+      "comment_count": 1,
+      "avg_sentiment": 0.725,
+      "avg_likes": 17957.0,
+      "total_likes": 17957,
+      "max_likes": 17957
+    },
+    {
+      "year_month": "2023-08",
+      "comment_count": 1,
+      "avg_sentiment": 0.449,
+      "avg_likes": 90780.0,
+      "total_likes": 90780,
+      "max_likes": 90780
+    },
+    {
+      "year_month": "2024-02",
+      "comment_count": 1,
+      "avg_sentiment": 0.714,
+      "avg_likes": 31425.0,
+      "total_likes": 31425,
+      "max_likes": 31425
+    },
+    {
+      "year_month": "2024-04",
+      "comment_count": 3,
+      "avg_sentiment": 0.69,
+      "avg_likes": 22287.3,
+      "total_likes": 66862,
+      "max_likes": 26722
+    },
+    {
+      "year_month": "2024-05",
+      "comment_count": 2,
+      "avg_sentiment": 0.626,
+      "avg_likes": 23592.0,
+      "total_likes": 47184,
+      "max_likes": 26386
+    },
+    {
+      "year_month": "2024-07",
+      "comment_count": 3111,
+      "avg_sentiment": 0.635,
+      "avg_likes": 0.8,
+      "total_likes": 2444,
+      "max_likes": 137
+    },
+    {
+      "year_month": "2024-08",
+      "comment_count": 11075,
+      "avg_sentiment": 0.64,
+      "avg_likes": 0.8,
+      "total_likes": 8775,
+      "max_likes": 1365
+    },
+    {
+      "year_month": "2024-09",
+      "comment_count": 6438,
+      "avg_sentiment": 0.632,
+      "avg_likes": 0.8,
+      "total_likes": 4888,
+      "max_likes": 427
+    },
+    {
+      "year_month": "2024-10",
+      "comment_count": 7488,
+      "avg_sentiment": 0.629,
+      "avg_likes": 3.5,
+      "total_likes": 26400,
+      "max_likes": 19902
+    },
+    {
+      "year_month": "2024-11",
+      "comment_count": 5456,
+      "avg_sentiment": 0.633,
+      "avg_likes": 0.7,
+      "total_likes": 3919,
+      "max_likes": 232
+    },
+    {
+      "year_month": "2024-12",
+      "comment_count": 5446,
+      "avg_sentiment": 0.632,
+      "avg_likes": 0.6,
+      "total_likes": 3110,
+      "max_likes": 87
+    },
+    {
+      "year_month": "2025-01",
+      "comment_count": 5527,
+      "avg_sentiment": 0.621,
+      "avg_likes": 0.6,
+      "total_likes": 3074,
+      "max_likes": 62
+    },
+    {
+      "year_month": "2025-02",
+      "comment_count": 4273,
+      "avg_sentiment": 0.626,
+      "avg_likes": 0.6,
+      "total_likes": 2418,
+      "max_likes": 110
+    },
+    {
+      "year_month": "2025-03",
+      "comment_count": 3504,
+      "avg_sentiment": 0.63,
+      "avg_likes": 0.4,
+      "total_likes": 1517,
+      "max_likes": 193
+    },
+    {
+      "year_month": "2025-04",
+      "comment_count": 3314,
+      "avg_sentiment": 0.629,
+      "avg_likes": 0.8,
+      "total_likes": 2708,
+      "max_likes": 543
+    },
+    {
+      "year_month": "2025-05",
+      "comment_count": 2308,
+      "avg_sentiment": 0.625,
+      "avg_likes": 0.8,
+      "total_likes": 1931,
+      "max_likes": 587
+    },
+    {
+      "year_month": "2025-06",
+      "comment_count": 2221,
+      "avg_sentiment": 0.639,
+      "avg_likes": 0.7,
+      "total_likes": 1655,
+      "max_likes": 171
+    },
+    {
+      "year_month": "2025-07",
+      "comment_count": 2177,
+      "avg_sentiment": 0.622,
+      "avg_likes": 0.6,
+      "total_likes": 1233,
+      "max_likes": 131
+    },
+    {
+      "year_month": "2025-08",
+      "comment_count": 1864,
+      "avg_sentiment": 0.627,
+      "avg_likes": 1.7,
+      "total_likes": 3214,
+      "max_likes": 472
+    },
+    {
+      "year_month": "2025-09",
+      "comment_count": 1271,
+      "avg_sentiment": 0.647,
+      "avg_likes": 1.5,
+      "total_likes": 1934,
+      "max_likes": 412
+    },
+    {
+      "year_month": "2025-10",
+      "comment_count": 1218,
+      "avg_sentiment": 0.648,
+      "avg_likes": 1.9,
+      "total_likes": 2361,
+      "max_likes": 974
+    },
+    {
+      "year_month": "2025-11",
+      "comment_count": 1199,
+      "avg_sentiment": 0.651,
+      "avg_likes": 1.1,
+      "total_likes": 1295,
+      "max_likes": 267
+    },
+    {
+      "year_month": "2025-12",
+      "comment_count": 1002,
+      "avg_sentiment": 0.644,
+      "avg_likes": 1.2,
+      "total_likes": 1206,
+      "max_likes": 566
+    },
+    {
+      "year_month": "2026-01",
+      "comment_count": 1100,
+      "avg_sentiment": 0.656,
+      "avg_likes": 1.4,
+      "total_likes": 1525,
+      "max_likes": 183
+    },
+    {
+      "year_month": "2026-02",
+      "comment_count": 1289,
+      "avg_sentiment": 0.669,
+      "avg_likes": 1.5,
+      "total_likes": 1893,
+      "max_likes": 473
+    },
+    {
+      "year_month": "2026-03",
+      "comment_count": 1186,
+      "avg_sentiment": 0.667,
+      "avg_likes": 0.8,
+      "total_likes": 994,
+      "max_likes": 102
+    },
+    {
+      "year_month": "2026-04",
+      "comment_count": 1249,
+      "avg_sentiment": 0.636,
+      "avg_likes": 0.8,
+      "total_likes": 952,
+      "max_likes": 23
+    },
+    {
+      "year_month": "2026-05",
+      "comment_count": 654,
+      "avg_sentiment": 0.659,
+      "avg_likes": 0.5,
+      "total_likes": 328,
+      "max_likes": 11
+    }
+  ],
+  "peak_moments": {
+    "peak_activity_month": "2024-08",
+    "peak_activity_count": 11075,
+    "peak_sentiment_month": "2022-08",
+    "peak_sentiment_value": 0.973
+  },
+  "featured_comments": {
+    "most_liked": [
+      {
+        "Comment_ID": "5962030607",
+        "Nickname": "零淮海",
+        "Content": "回忆脑比恋爱脑更可怕",
+        "Liked_Count": 90780,
+        "Sentiment_Score": 0.4489115303498392,
+        "Sentiment_Class": "消极",
+        "Time_String": "2023-08-16"
+      },
+      {
+        "Comment_ID": "5452104049",
+        "Nickname": "奉孝_ScsZ",
+        "Content": "看到这条评论的人今天一天都会好运，因为  我跟她结婚了",
+        "Liked_Count": 64987,
+        "Sentiment_Score": 0.7357414490192543,
+        "Sentiment_Class": "积极",
+        "Time_String": "2021-11-05"
+      },
+      {
+        "Comment_ID": "5452020436",
+        "Nickname": "黑闹闹呐",
+        "Content": "如果可以，能在朋友圈看完你的一生 也好。",
+        "Liked_Count": 47069,
+        "Sentiment_Score": 0.683356315185055,
+        "Sentiment_Class": "积极",
+        "Time_String": "2021-11-05"
+      },
+      {
+        "Comment_ID": "5723820896",
+        "Nickname": "707v-v",
+        "Content": "你也在听歌啊！好巧！今天开心吗！",
+        "Liked_Count": 40445,
+        "Sentiment_Score": 0.973288778017801,
+        "Sentiment_Class": "积极",
+        "Time_String": "2022-08-10"
+      },
+      {
+        "Comment_ID": "6054660759",
+        "Nickname": "-寄江南-",
+        "Content": "“我们不是干净的朋友，也不是敞亮的恋人”",
+        "Liked_Count": 31425,
+        "Sentiment_Score": 0.713858066078866,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-02-07"
+      },
+      {
+        "Comment_ID": "5807582336",
+        "Nickname": "账号已注销",
+        "Content": "每个被认真记住的瞬间 我都想掉眼泪",
+        "Liked_Count": 30912,
+        "Sentiment_Score": 0.4353243295000716,
+        "Sentiment_Class": "消极",
+        "Time_String": "2022-12-11"
+      },
+      {
+        "Comment_ID": "6101835641",
+        "Nickname": "守护_Viel",
+        "Content": "祝我每一次出警都平平安安回来",
+        "Liked_Count": 26722,
+        "Sentiment_Score": 0.6249308409149884,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-04-27"
+      },
+      {
+        "Comment_ID": "6119742392",
+        "Nickname": "乌日力嘎19062",
+        "Content": "还有几小时就要起床结婚咯",
+        "Liked_Count": 26386,
+        "Sentiment_Score": 0.6540571695007096,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-05-27"
+      },
+      {
+        "Comment_ID": "5876894796",
+        "Nickname": "天空静止静",
+        "Content": "我一直说着要翻篇 却偷偷折了页",
+        "Liked_Count": 26080,
+        "Sentiment_Score": 0.528441275433323,
+        "Sentiment_Class": "中性",
+        "Time_String": "2023-03-25"
+      },
+      {
+        "Comment_ID": "5932792209",
+        "Nickname": "在路上_L7",
+        "Content": "希望下次哭是因为太幸福",
+        "Liked_Count": 24869,
+        "Sentiment_Score": 0.9723990643369884,
+        "Sentiment_Class": "积极",
+        "Time_String": "2023-06-29"
+      }
+    ],
+    "most_positive": [
+      {
+        "Comment_ID": "5452104049",
+        "Nickname": "奉孝_ScsZ",
+        "Content": "看到这条评论的人今天一天都会好运，因为  我跟她结婚了",
+        "Liked_Count": 64987,
+        "Sentiment_Score": 0.7357414490192543,
+        "Sentiment_Class": "积极",
+        "Time_String": "2021-11-05"
+      },
+      {
+        "Comment_ID": "5452020436",
+        "Nickname": "黑闹闹呐",
+        "Content": "如果可以，能在朋友圈看完你的一生 也好。",
+        "Liked_Count": 47069,
+        "Sentiment_Score": 0.683356315185055,
+        "Sentiment_Class": "积极",
+        "Time_String": "2021-11-05"
+      },
+      {
+        "Comment_ID": "5723820896",
+        "Nickname": "707v-v",
+        "Content": "你也在听歌啊！好巧！今天开心吗！",
+        "Liked_Count": 40445,
+        "Sentiment_Score": 0.973288778017801,
+        "Sentiment_Class": "积极",
+        "Time_String": "2022-08-10"
+      },
+      {
+        "Comment_ID": "6054660759",
+        "Nickname": "-寄江南-",
+        "Content": "“我们不是干净的朋友，也不是敞亮的恋人”",
+        "Liked_Count": 31425,
+        "Sentiment_Score": 0.713858066078866,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-02-07"
+      },
+      {
+        "Comment_ID": "6101835641",
+        "Nickname": "守护_Viel",
+        "Content": "祝我每一次出警都平平安安回来",
+        "Liked_Count": 26722,
+        "Sentiment_Score": 0.6249308409149884,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-04-27"
+      },
+      {
+        "Comment_ID": "6119742392",
+        "Nickname": "乌日力嘎19062",
+        "Content": "还有几小时就要起床结婚咯",
+        "Liked_Count": 26386,
+        "Sentiment_Score": 0.6540571695007096,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-05-27"
+      },
+      {
+        "Comment_ID": "5932792209",
+        "Nickname": "在路上_L7",
+        "Content": "希望下次哭是因为太幸福",
+        "Liked_Count": 24869,
+        "Sentiment_Score": 0.9723990643369884,
+        "Sentiment_Class": "积极",
+        "Time_String": "2023-06-29"
+      },
+      {
+        "Comment_ID": "6098505010",
+        "Nickname": "璨_yc",
+        "Content": "预告片： 成功上岸（没有副作用） 学业有成（没有副作用） 金榜题名（没有副作用） crush倒追（没有副作用） 身体健康（没有副作用） 阖家欢乐（没有副作用） 财源滚滚（合法渠道 没有副作用） 家人身体健康无病无灾（没有副作用） 颜值飙升（没有副作用） 万事顺遂！！！！",
+        "Liked_Count": 22334,
+        "Sentiment_Score": 0.999984861289648,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-04-22"
+      }
+    ],
+    "most_touching": [
+      {
+        "Comment_ID": "5962030607",
+        "Nickname": "零淮海",
+        "Content": "回忆脑比恋爱脑更可怕",
+        "Liked_Count": 90780,
+        "Sentiment_Score": 0.4489115303498392,
+        "Sentiment_Class": "消极",
+        "Time_String": "2023-08-16"
+      },
+      {
+        "Comment_ID": "5807582336",
+        "Nickname": "账号已注销",
+        "Content": "每个被认真记住的瞬间 我都想掉眼泪",
+        "Liked_Count": 30912,
+        "Sentiment_Score": 0.4353243295000716,
+        "Sentiment_Class": "消极",
+        "Time_String": "2022-12-11"
+      },
+      {
+        "Comment_ID": "6085422282",
+        "Nickname": "勿凋花",
+        "Content": "以前很讨厌妈妈拿手机拍我 讨厌她拿手机对准我 每次都指责她不要拍我了 她每次都很尴尬的笑一笑 说不拍了不拍了 最后才发现 只有妈妈才会举起手机记录我",
+        "Liked_Count": 17806,
+        "Sentiment_Score": 0.4445441913249675,
+        "Sentiment_Class": "消极",
+        "Time_String": "2024-04-02"
+      },
+      {
+        "Comment_ID": "7403315326",
+        "Nickname": "Soulboy没有David",
+        "Content": "1[强]：做一道题 10[强]：做一页题 50[强]：做一张卷子 100[强]：做一套卷子 500[强]：游戏再见 1000[强]：手机拜拜 5000[强]：平板取使 10000[强]：电脑消失 100000[强]：无电子产品 500000[强]：炸木星 1000000[强]：炸太阳系 10000000[强]：炸宇宙 --------------------------- 兄弟们这把玩真的",
+        "Liked_Count": 1365,
+        "Sentiment_Score": 0.4499999866508362,
+        "Sentiment_Class": "消极",
+        "Time_String": "2024-08-22"
+      },
+      {
+        "Comment_ID": "7440887778",
+        "Nickname": "小王要早睡了-",
+        "Content": "我已经2969天了",
+        "Liked_Count": 811,
+        "Sentiment_Score": 0.4355464232051087,
+        "Sentiment_Class": "消极",
+        "Time_String": "2024-10-19"
+      },
+      {
+        "Comment_ID": "7581699195",
+        "Nickname": "ks小念面",
+        "Content": "你连友谊都要吃醋，你是有多没安全感",
+        "Liked_Count": 543,
+        "Sentiment_Score": 0.4404353292289318,
+        "Sentiment_Class": "消极",
+        "Time_String": "2025-04-05"
+      },
+      {
+        "Comment_ID": "7448159295",
+        "Nickname": "马思唯分唯",
+        "Content": "暗恋好久了 破百就去表白啦",
+        "Liked_Count": 412,
+        "Sentiment_Score": 0.3942940851579722,
+        "Sentiment_Class": "消极",
+        "Time_String": "2024-10-30"
+      },
+      {
+        "Comment_ID": "7680164541",
+        "Nickname": "Monody-----挽歌",
+        "Content": "小学初中被老师带头霸凌被同学欺凌，大学被同学欺凌，被逼休学差点在校死亡，我才21岁，我的青春才刚刚开始，却把我永远的困在了过去的阴影里，现在双相抑郁焦虑第12年，我好痛[哀伤]我会翻过山，看到万里晴空的，对吧",
+        "Liked_Count": 385,
+        "Sentiment_Score": 0.4499999999924868,
+        "Sentiment_Class": "消极",
+        "Time_String": "2025-08-07"
+      }
+    ],
+    "long_stories": [
+      {
+        "Comment_ID": "6098505010",
+        "Nickname": "璨_yc",
+        "Content": "预告片： 成功上岸（没有副作用） 学业有成（没有副作用） 金榜题名（没有副作用） crush倒追（没有副作用） 身体健康（没有副作用） 阖家欢乐（没有副作用） 财源滚滚（合法渠道 没有副作用） 家人身体健康无病无灾（没有副作用） 颜值飙升（没有副作用） 万事顺遂！！！！",
+        "Liked_Count": 22334,
+        "Sentiment_Score": 0.999984861289648,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-04-22"
+      },
+      {
+        "Comment_ID": "6085422282",
+        "Nickname": "勿凋花",
+        "Content": "以前很讨厌妈妈拿手机拍我 讨厌她拿手机对准我 每次都指责她不要拍我了 她每次都很尴尬的笑一笑 说不拍了不拍了 最后才发现 只有妈妈才会举起手机记录我",
+        "Liked_Count": 17806,
+        "Sentiment_Score": 0.4445441913249675,
+        "Sentiment_Class": "消极",
+        "Time_String": "2024-04-02"
+      },
+      {
+        "Comment_ID": "7403315326",
+        "Nickname": "Soulboy没有David",
+        "Content": "1[强]：做一道题 10[强]：做一页题 50[强]：做一张卷子 100[强]：做一套卷子 500[强]：游戏再见 1000[强]：手机拜拜 5000[强]：平板取使 10000[强]：电脑消失 100000[强]：无电子产品 500000[强]：炸木星 1000000[强]：炸太阳系 10000000[强]：炸宇宙 --------------------------- 兄弟们这把玩真的",
+        "Liked_Count": 1365,
+        "Sentiment_Score": 0.4499999866508362,
+        "Sentiment_Class": "消极",
+        "Time_String": "2024-08-22"
+      },
+      {
+        "Comment_ID": "9456923028",
+        "Nickname": "唯许岁岁与共",
+        "Content": "打扰一下大家，2026.5.20是我女朋友的生日，也想给她个惊喜，所以想集齐全国各地朋友们祝福，如果可以的话我想拜托大家以这种形式：  【我在XX省祝判判生日快乐！】  回复一句祝福语可以嘛想给她一个仪式感，如果打扰到各位抱歉哈。我喜欢这样的仪式感，真的很浪漫，感谢大家了[钟情]",
+        "Liked_Count": 415,
+        "Sentiment_Score": 0.9352941049929708,
+        "Sentiment_Class": "积极",
+        "Time_String": "02-03"
+      },
+      {
+        "Comment_ID": "7680164541",
+        "Nickname": "Monody-----挽歌",
+        "Content": "小学初中被老师带头霸凌被同学欺凌，大学被同学欺凌，被逼休学差点在校死亡，我才21岁，我的青春才刚刚开始，却把我永远的困在了过去的阴影里，现在双相抑郁焦虑第12年，我好痛[哀伤]我会翻过山，看到万里晴空的，对吧",
+        "Liked_Count": 385,
+        "Sentiment_Score": 0.4499999999924868,
+        "Sentiment_Class": "消极",
+        "Time_String": "2025-08-07"
+      },
+      {
+        "Comment_ID": "7409088680",
+        "Nickname": "Dtiik",
+        "Content": "很喜欢宫崎骏的这句话，“其实我早就知道我们不合适，但是我还是拒绝了所有人，陪你走过了一段没有结果的路，虽然时间不长，但毕生难忘”。",
+        "Liked_Count": 145,
+        "Sentiment_Score": 0.9998931621653008,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-08-30"
+      },
+      {
+        "Comment_ID": "9489887933",
+        "Nickname": "lost本性-",
+        "Content": "想要徽章可以点赞嘛 给你摸小猫 　　　　　／＞　　フ 　　　　　|  　_　 _ l 　 　　　／` ミ＿꒳ノ 　　 　 /　　　 　 | 　　　 /　 ヽ　　 ﾉ 　 　 │　　|　|　| 　／￣|　　 |　|　| 　| (￣ヽ＿_ヽ_)__) 　＼二つ",
+        "Liked_Count": 80,
+        "Sentiment_Score": 0.7249999912986815,
+        "Sentiment_Class": "积极",
+        "Time_String": "03-14"
+      },
+      {
+        "Comment_ID": "7402510744",
+        "Nickname": "y晚h安y",
+        "Content": "“活着的意义到底是什么”  “我讨厌等可我一直等你喜欢我”  “我不难养的花是你没有用心浇灌”  “是无缘无故的情绪低谷莫名其妙的脾气”  “翻篇吧遇见我你不幸福”  “那就一直割手直到放手”",
+        "Liked_Count": 72,
+        "Sentiment_Score": 0.6326303242834346,
+        "Sentiment_Class": "积极",
+        "Time_String": "2024-08-21"
+      }
+    ]
+  },
+  "sentiment_velocity": [
+    {
+      "year_month": "2021-11",
+      "sentiment": 0.71,
+      "delta": 0
+    },
+    {
+      "year_month": "2022-08",
+      "sentiment": 0.973,
+      "delta": 0.264
+    },
+    {
+      "year_month": "2022-12",
+      "sentiment": 0.435,
+      "delta": -0.538
+    },
+    {
+      "year_month": "2023-03",
+      "sentiment": 0.528,
+      "delta": 0.093
+    },
+    {
+      "year_month": "2023-06",
+      "sentiment": 0.972,
+      "delta": 0.444
+    },
+    {
+      "year_month": "2023-07",
+      "sentiment": 0.725,
+      "delta": -0.248
+    },
+    {
+      "year_month": "2023-08",
+      "sentiment": 0.449,
+      "delta": -0.276
+    },
+    {
+      "year_month": "2024-02",
+      "sentiment": 0.714,
+      "delta": 0.265
+    },
+    {
+      "year_month": "2024-04",
+      "sentiment": 0.69,
+      "delta": -0.024
+    },
+    {
+      "year_month": "2024-05",
+      "sentiment": 0.626,
+      "delta": -0.064
+    },
+    {
+      "year_month": "2024-07",
+      "sentiment": 0.635,
+      "delta": 0.009
+    },
+    {
+      "year_month": "2024-08",
+      "sentiment": 0.64,
+      "delta": 0.005
+    },
+    {
+      "year_month": "2024-09",
+      "sentiment": 0.632,
+      "delta": -0.007
+    },
+    {
+      "year_month": "2024-10",
+      "sentiment": 0.629,
+      "delta": -0.003
+    },
+    {
+      "year_month": "2024-11",
+      "sentiment": 0.633,
+      "delta": 0.003
+    },
+    {
+      "year_month": "2024-12",
+      "sentiment": 0.632,
+      "delta": -0.0
+    },
+    {
+      "year_month": "2025-01",
+      "sentiment": 0.621,
+      "delta": -0.011
+    },
+    {
+      "year_month": "2025-02",
+      "sentiment": 0.626,
+      "delta": 0.005
+    },
+    {
+      "year_month": "2025-03",
+      "sentiment": 0.63,
+      "delta": 0.004
+    },
+    {
+      "year_month": "2025-04",
+      "sentiment": 0.629,
+      "delta": -0.001
+    },
+    {
+      "year_month": "2025-05",
+      "sentiment": 0.625,
+      "delta": -0.003
+    },
+    {
+      "year_month": "2025-06",
+      "sentiment": 0.639,
+      "delta": 0.014
+    },
+    {
+      "year_month": "2025-07",
+      "sentiment": 0.622,
+      "delta": -0.017
+    },
+    {
+      "year_month": "2025-08",
+      "sentiment": 0.627,
+      "delta": 0.005
+    },
+    {
+      "year_month": "2025-09",
+      "sentiment": 0.647,
+      "delta": 0.02
+    },
+    {
+      "year_month": "2025-10",
+      "sentiment": 0.648,
+      "delta": 0.0
+    },
+    {
+      "year_month": "2025-11",
+      "sentiment": 0.651,
+      "delta": 0.004
+    },
+    {
+      "year_month": "2025-12",
+      "sentiment": 0.644,
+      "delta": -0.007
+    },
+    {
+      "year_month": "2026-01",
+      "sentiment": 0.656,
+      "delta": 0.013
+    },
+    {
+      "year_month": "2026-02",
+      "sentiment": 0.669,
+      "delta": 0.013
+    },
+    {
+      "year_month": "2026-03",
+      "sentiment": 0.667,
+      "delta": -0.002
+    },
+    {
+      "year_month": "2026-04",
+      "sentiment": 0.636,
+      "delta": -0.031
+    },
+    {
+      "year_month": "2026-05",
+      "sentiment": 0.659,
+      "delta": 0.023
+    }
+  ],
+  "word_co_occurrence": {
+    "nodes": [
+      {
+        "name": "回忆",
+        "total": 2158
+      },
+      {
+        "name": "眼泪",
+        "total": 1724
+      },
+      {
+        "name": "幸福",
+        "total": 4815
+      },
+      {
+        "name": "遗憾",
+        "total": 1007
+      },
+      {
+        "name": "爱情",
+        "total": 507
+      },
+      {
+        "name": "时光",
+        "total": 220
+      },
+      {
+        "name": "孤独",
+        "total": 137
+      },
+      {
+        "name": "希望",
+        "total": 2945
+      }
+    ],
+    "links": [
+      {
+        "source": "回忆",
+        "target": "眼泪",
+        "value": 190,
+        "jaccard": 0.0515,
+        "npmi": 0.2236,
+        "phi": 0.0745
+      },
+      {
+        "source": "回忆",
+        "target": "幸福",
+        "value": 322,
+        "jaccard": 0.0484,
+        "npmi": 0.1534,
+        "phi": 0.0593
+      },
+      {
+        "source": "回忆",
+        "target": "遗憾",
+        "value": 63,
+        "jaccard": 0.0203,
+        "npmi": 0.1086,
+        "phi": 0.0234
+      },
+      {
+        "source": "回忆",
+        "target": "爱情",
+        "value": 23,
+        "jaccard": 0.0087,
+        "npmi": 0.0553,
+        "phi": 0.0081
+      },
+      {
+        "source": "回忆",
+        "target": "时光",
+        "value": 30,
+        "jaccard": 0.0128,
+        "npmi": 0.198,
+        "phi": 0.0348
+      },
+      {
+        "source": "回忆",
+        "target": "孤独",
+        "value": 9,
+        "jaccard": 0.0039,
+        "npmi": 0.0906,
+        "phi": 0.0094
+      },
+      {
+        "source": "回忆",
+        "target": "希望",
+        "value": 93,
+        "jaccard": 0.0186,
+        "npmi": 0.0127,
+        "phi": 0.0031
+      },
+      {
+        "source": "眼泪",
+        "target": "遗憾",
+        "value": 32,
+        "jaccard": 0.0119,
+        "npmi": 0.0407,
+        "phi": 0.0067
+      },
+      {
+        "source": "幸福",
+        "target": "眼泪",
+        "value": 498,
+        "jaccard": 0.0824,
+        "npmi": 0.2988,
+        "phi": 0.1403
+      },
+      {
+        "source": "幸福",
+        "target": "遗憾",
+        "value": 81,
+        "jaccard": 0.0141,
+        "npmi": 0.0318,
+        "phi": 0.0075
+      },
+      {
+        "source": "幸福",
+        "target": "爱情",
+        "value": 40,
+        "jaccard": 0.0076,
+        "npmi": 0.0263,
+        "phi": 0.0048
+      },
+      {
+        "source": "幸福",
+        "target": "时光",
+        "value": 19,
+        "jaccard": 0.0038,
+        "npmi": 0.0349,
+        "phi": 0.0048
+      },
+      {
+        "source": "爱情",
+        "target": "眼泪",
+        "value": 13,
+        "jaccard": 0.0059,
+        "npmi": 0.0117,
+        "phi": 0.0014
+      },
+      {
+        "source": "爱情",
+        "target": "遗憾",
+        "value": 14,
+        "jaccard": 0.0093,
+        "npmi": 0.0831,
+        "phi": 0.0101
+      },
+      {
+        "source": "时光",
+        "target": "眼泪",
+        "value": 3,
+        "jaccard": 0.0015,
+        "npmi": -0.0524,
+        "phi": -0.0035
+      },
+      {
+        "source": "时光",
+        "target": "遗憾",
+        "value": 17,
+        "jaccard": 0.014,
+        "npmi": 0.2078,
+        "phi": 0.03
+      },
+      {
+        "source": "时光",
+        "target": "爱情",
+        "value": 3,
+        "jaccard": 0.0041,
+        "npmi": 0.0685,
+        "phi": 0.0045
+      },
+      {
+        "source": "孤独",
+        "target": "眼泪",
+        "value": 4,
+        "jaccard": 0.0022,
+        "npmi": 0.0235,
+        "phi": 0.0017
+      },
+      {
+        "source": "孤独",
+        "target": "幸福",
+        "value": 13,
+        "jaccard": 0.0026,
+        "npmi": 0.0442,
+        "phi": 0.0053
+      },
+      {
+        "source": "孤独",
+        "target": "遗憾",
+        "value": 3,
+        "jaccard": 0.0026,
+        "npmi": 0.0475,
+        "phi": 0.0031
+      },
+      {
+        "source": "孤独",
+        "target": "爱情",
+        "value": 4,
+        "jaccard": 0.0063,
+        "npmi": 0.148,
+        "phi": 0.0117
+      },
+      {
+        "source": "孤独",
+        "target": "时光",
+        "value": 1,
+        "jaccard": 0.0028,
+        "npmi": 0.0805,
+        "phi": 0.0034
+      },
+      {
+        "source": "孤独",
+        "target": "希望",
+        "value": 11,
+        "jaccard": 0.0036,
+        "npmi": 0.0802,
+        "phi": 0.009
+      },
+      {
+        "source": "希望",
+        "target": "眼泪",
+        "value": 110,
+        "jaccard": 0.0241,
+        "npmi": 0.0732,
+        "phi": 0.0191
+      },
+      {
+        "source": "希望",
+        "target": "幸福",
+        "value": 460,
+        "jaccard": 0.063,
+        "npmi": 0.1732,
+        "phi": 0.0755
+      },
+      {
+        "source": "希望",
+        "target": "遗憾",
+        "value": 63,
+        "jaccard": 0.0162,
+        "npmi": 0.0647,
+        "phi": 0.0138
+      },
+      {
+        "source": "希望",
+        "target": "爱情",
+        "value": 27,
+        "jaccard": 0.0079,
+        "npmi": 0.0374,
+        "phi": 0.0058
+      },
+      {
+        "source": "希望",
+        "target": "时光",
+        "value": 9,
+        "jaccard": 0.0029,
+        "npmi": 0.0036,
+        "phi": 0.0004
+      }
+    ]
+  },
+  "year_comparison": [
+    {
+      "year": 2021,
+      "comment_count": 2,
+      "avg_sentiment": 0.71,
+      "avg_likes": 56028.0
+    },
+    {
+      "year": 2022,
+      "comment_count": 2,
+      "avg_sentiment": 0.704,
+      "avg_likes": 35678.5
+    },
+    {
+      "year": 2023,
+      "comment_count": 4,
+      "avg_sentiment": 0.669,
+      "avg_likes": 39921.5
+    },
+    {
+      "year": 2024,
+      "comment_count": 39020,
+      "avg_sentiment": 0.634,
+      "avg_likes": 5.0
+    },
+    {
+      "year": 2025,
+      "comment_count": 29878,
+      "avg_sentiment": 0.63,
+      "avg_likes": 0.8
+    },
+    {
+      "year": 2026,
+      "comment_count": 5478,
+      "avg_sentiment": 0.657,
+      "avg_likes": 1.0
+    }
+  ],
+  "narrative_stats": {
+    "total_comments": 74384,
+    "unique_users": 43082,
+    "total_likes": 568344,
+    "avg_length": 31.0,
+    "positive_pct": 63.2,
+    "time_span": "2021-11 ~ 2026-05",
+    "night_owl_pct": 31.7,
+    "avg_sentiment": 0.634
+  }
+}
